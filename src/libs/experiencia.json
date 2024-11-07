@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Trabajado de Informatico",
+      "company": "ByoGimStore",
+      "period": "Septiembre-Noviembre 2024 - Terminado",
+      "description": "Trabajo de informática en la tienda ByoGimStore, aparte del desarrollo de una aplicación web sobre el control de stock de los productos.",
+      "activities": [
+        "Planificación de Proyectos",
+        "Gestión de tienda Shopify",
+        "Gestión de Sistema Bsale"
+      ],
+      "skills": ["React", "Shopify", "Bsale", "Api"]
+    },
+    {
+      "title": "Profesor de track Drones",
+      "company": "DuocUc",
+      "period": "2021-2024 Primer Semestre - Terminado",
+      "description": "Enseñar a estudiantes del Duoc UC a volar drones, planificar planes de vuelo y conocer las leyes relacionadas con su uso, trabajo realizado en CITT de Concepción",
+      "activities": [
+        "Planificación de Vuelos"
+      ],
+      "skills": ["DJI fly", "DJI GO"]
+    }
+  ]
+  

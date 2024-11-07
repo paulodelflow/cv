@@ -1,0 +1,24 @@
+{
+    "languages": [
+      { "name": "Python", "icon": "🐍" },
+      { "name": "JavaScript", "icon": "JS" }
+    ],
+    "frameworks": [
+      { "name": "React", "icon": "⚛️" },
+      { "name": "Express", "icon": "EX" },
+      { "name": "NODE.JS", "icon": "N" },
+      { "name": "Tailwind", "icon": "~" },
+      { "name": "Django", "icon": "DJ" }
+    ],
+    "databases": [
+      { "name": "Firebase", "icon": "🔥" },
+      { "name": "PostgreSQL", "icon": "🐘" },
+      { "name": "MongoDB", "icon": "🍃" }
+    ],
+    "tools": [
+      { "name": "Git", "icon": "🔄" },
+      { "name": "Postman", "icon": "📮" },
+      { "name": "Docker", "icon": "🐳" }
+    ]
+  }
+  
